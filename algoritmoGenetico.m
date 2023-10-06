@@ -1,3 +1,7 @@
+% 22 - septiembre - 2023
+% Valeria Jahzeel Castañon Hernandez
+% Prorgama de un algoritmo genético finalizado
+
 clc; % para limpiar la consola cada iteracion
 
 % se definen las variables
